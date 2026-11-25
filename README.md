@@ -6,6 +6,7 @@ A personal archive of the labs, coursework, and assignments I completed at BRAC 
 
 ### Core Courses
 - **CSE330: Numerical Methods** (`BRACU-CSE330`)
+- **CSE420: Compiler Design** (`BRACU-CSE420`)
 - **CSE422: Artificial Intelligence** (`BRACU-CSE422`)
 - **CSE423: Computer Graphics** (`BRACU-CSE423`)
 - **CSE470: Software Engineering** (`BRACU-CSE470`)
