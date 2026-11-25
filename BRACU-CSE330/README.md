@@ -1,1 +1,1 @@
-#CSE 330
+﻿# CSE330: Numerical Methods
